@@ -16,11 +16,18 @@
 
 ## 🏙 Pages
 
-### 💡.
-> .
+### 💡 메인 페이지
+> 회사 및 교육 소개와 접수중인 강좌, 공지사항을 표시합니다.
 
-### 💡.
-> .
+<img width="60%" src="https://user-images.githubusercontent.com/56222478/129448552-72be23a8-1998-4fdb-b8a5-208b21424035.gif"/>
+
+
+### 💡 로그인 & 마이페이지
+> 로그인 후 마이페이지에서 회원정보 수정 및 회원 탈퇴 가능합니다.
+
+<img width="60%" src="https://user-images.githubusercontent.com/56222478/129449169-f9b611dd-0aba-4445-b297-5b71cee06ca6.gif"/>
+
+
 
 ### 💡.
 > .
