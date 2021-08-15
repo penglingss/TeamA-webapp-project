@@ -19,21 +19,23 @@
 ### 💡 메인 페이지
 > 회사 및 교육 소개와 접수중인 강좌, 공지사항을 표시합니다.
 
-<img width="60%" src="https://user-images.githubusercontent.com/56222478/129448552-72be23a8-1998-4fdb-b8a5-208b21424035.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/56222478/129448552-72be23a8-1998-4fdb-b8a5-208b21424035.gif"/>
 
 
 ### 💡 로그인 & 마이페이지
 > 로그인 후 마이페이지에서 회원정보 수정 및 회원 탈퇴 가능합니다.
 
-<img width="60%" src="https://user-images.githubusercontent.com/56222478/129449169-f9b611dd-0aba-4445-b297-5b71cee06ca6.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/56222478/129449169-f9b611dd-0aba-4445-b297-5b71cee06ca6.gif"/>
 
+### 💡 수강신청
+> 강의 상세 내용 확인 및 수강신청 가능합니다.
 
+<img width="70%" src="https://user-images.githubusercontent.com/56222478/129480859-8cd77b8e-6803-400b-a332-a1746564f40c.gif"/>
 
-### 💡.
-> .
+### 💡채용지원 관리
+> 공고가 올라온 회사에 지원할수있습니다. 지원 삭제도 가능합니다.
 
-### 💡.
-> .
+<img width="70%" src="https://user-images.githubusercontent.com/56222478/129480821-67939a02-a202-43e0-98cc-7e8e6a2905dc.gif"/>
 
 ### 💡.
 > .
