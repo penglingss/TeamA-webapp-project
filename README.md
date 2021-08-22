@@ -32,25 +32,35 @@
 
 <img width="70%" src="https://user-images.githubusercontent.com/56222478/129480859-8cd77b8e-6803-400b-a332-a1746564f40c.gif"/>
 
-### 💡채용지원 관리
+### 💡 채용지원 관리
 > 공고가 올라온 회사에 지원할수있습니다. 지원 삭제도 가능합니다.
 
 <img width="70%" src="https://user-images.githubusercontent.com/56222478/129480821-67939a02-a202-43e0-98cc-7e8e6a2905dc.gif"/>
 
-### 💡.
-> .
+### 💡 관리자 페이지
+> 메인 화면에서 연도별 전체 수료 인원을 그래프로 보여줍니다.
+<img width="70%" src="https://user-images.githubusercontent.com/56222478/130246147-d5d6fd60-d5ee-4554-b6ef-06794d317d2a.gif"/>
 
-### 💡.
-> .
+|회원 관리|협력사 관리|
+|:-:|:-:|
+|![First Image](https://user-images.githubusercontent.com/56222478/130247573-bd51912d-f52a-4806-816c-103a9a7f313e.jpg)|![Second Image](https://user-images.githubusercontent.com/56222478/130248177-48ee34f1-619f-4a49-9ad0-c1c3bf39eb78.jpg)|
 
-### 💡.
-> .
+|채용공고 관리|강의 관리|
+|:-:|:-:|
+|![First Image](https://user-images.githubusercontent.com/56222478/130248715-43b6b0cd-4d7f-4800-b4e1-b8a0b8496776.jpg)|![Second Image](https://user-images.githubusercontent.com/56222478/130248487-a9d5cac2-cf84-4db7-8d0a-9b1a8a2cea5a.jpg)|
 
-### 💡.
-> .
+|1:1문의 관리|공지사항 관리|
+|:-:|:-:|
+|![First Image](https://user-images.githubusercontent.com/56222478/130248807-7dae7ff7-c096-45cd-b713-dde38d279bce.jpg)|![Second Image](https://user-images.githubusercontent.com/56222478/130248888-c355758c-59ff-4a7e-981e-0eb6f6627570.jpg)|
+### 💡 협력사 페이지
+> 메인 화면에서 해당 회사 재직자의 연도별 수료 인원을 그래프로 보여줍니다.
 
-### 💡.
-> .
+<img width="70%" src="https://user-images.githubusercontent.com/56222478/130353280-5e944003-b965-4a12-9433-1768a80afb82.gif"/>
+
+|채용 관리|직원 관리|
+|:-:|:-:|
+|![First Image](https://user-images.githubusercontent.com/56222478/130353311-195f1a30-862f-4b84-bb67-61364386766b.jpg)|![Second Image](https://user-images.githubusercontent.com/56222478/130353331-4d825a7f-8749-45ba-9919-07c916a1980b.jpg)|
+
 
 <!-- ## How to Run
 
@@ -79,10 +89,10 @@ ResumeController.java = [158번째 줄에 추가] "C:\\Users\\rkdal\\Downloads\\
 
 9. Start our Project!!
  -->
-## 📃 ER - Diagram
+<!-- ## 📃 ER - Diagram
 
 ![er-Diagram](https://user-images.githubusercontent.com/62874963/117421871-edb5d900-af59-11eb-98ba-9c2f04d69b05.png)
-
+ -->
 <!-- 
 ## Main Page
 
